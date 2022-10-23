@@ -25,6 +25,21 @@ const songsList = [
         path: './static/music/The Rain.mp4',
         bgPath: './static/cover/3.jpg',
         time: 0
+    },
+    {
+        id: 'xxx-04',
+        title: 'One Night',
+        author: '加贺谷玲',
+        path: './static/music/One Night.mp3',
+        bgPath: './static/cover/4.jpg',
+        time: 0
+    },
+    {
+        id: 'xxx-05',
+        title: 'Sky',
+        author: 'Heki',
+        path: './static/music/Sky.mp3',
+        bgPath: './static/cover/5.jpg',
     }
 ];
 
