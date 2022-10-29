@@ -121,6 +121,7 @@ main section{
 #skills{ background: #fff352; }
 #works{ background: url(img/bg-2.png) fixed; }
 #story{ background: url(img/bg-3.png) fixed; }
+#links{background: url(img/webb.png) fixed;}
 #music{ background: url(img/bg-4.jpg) fixed; }
 /*
 #links{ background: url(img/bg-3.png) fixed;}
@@ -134,6 +135,7 @@ main section{
     font-family: "FontAwesome";
 }
 
+/* - content 指定了使用的图标 */
 #info .title:before{
     content: "\f005";
 }
@@ -146,8 +148,8 @@ main section{
 #story .title:before{
     content: "\f0b1";
 }
-#team .title:before{
-    content: "\f024";
+#links .title:before{
+    content: "\f0c1";
 }
 #music .title:before{
     content: "\f001";
